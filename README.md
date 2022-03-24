@@ -1,10 +1,10 @@
-# College major versus earning potential
+# College Majors Versus Earning Potential
 
 For this project we'll be working with a dataset on the job outcomes of students who graduated from college between 2010 and 2012. The original data on job outcomes was released by [American Community Survey](https://www.census.gov/programs-surveys/acs/), which conducts surveys and aggregates the data. FiveThirtyEight cleaned the dataset and released it on their [Github repo](https://github.com/fivethirtyeight/data/tree/master/college-majors).
 
 ## Aim
 
-To Visualize the effect of gender distribution and popularity of various college majors on the future
+To visualize the effect of gender distribution and popularity of various college majors on the future
 earnings potential.
 
 ## Dataset
